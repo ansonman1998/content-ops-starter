@@ -11,6 +11,7 @@ export default function BlankBaseLayout(props) {
             <Head>
                 <title>{page.title}</title>
                 <meta name="description" content="Components Library" />
+                <meta name="facebook-domain-verification" content="5l8odfmjvjvgp66269aec4dhuzxjsp" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
             {props.children}
