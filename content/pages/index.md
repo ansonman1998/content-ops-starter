@@ -748,5 +748,6 @@ seo:
   metaDescription: AI auto
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
