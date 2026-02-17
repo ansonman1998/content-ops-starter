@@ -32,6 +32,7 @@ function Page(props) {
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <meta name="facebook-domain-verification" content="5l8odfmjvjvgp66269aec4dhuzxjsp" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
             <PageLayout page={page} site={site} />
