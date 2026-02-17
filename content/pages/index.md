@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: AutoMediaCore
-  metaDescription: ''
+  metaDescription: AI auto
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
